@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Business Savvy Data Scientist
 
-You can use the [editor on GitHub](https://github.com/subhareng/subhareng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my homepage. I'm Subha, a current student in the Master of Business Analytics program at MIT. It's a 1 year program in data science co-hosted through the Operations Research Center and the Sloan School of Management. Before coming to MIT, I was a management consultant for Protiviti in San Francisco and a graduate from the University of California, Berkeley, where I studied Applied Mathematics from the College of Letters and Science and Business Administration from the Haas School of Business. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Contact
+You can always contact me over email subharengx@gmail.com, except without the x. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/subhareng/subhareng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
